@@ -1,16 +1,16 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=MD.%20ARKIVE&fontSize=56&fontColor=ffffff&animation=fadeIn&fontAlignY=45&desc=Full%20Stack%20Web%20Developer%20%C2%B7%20CSE%20Undergraduate&descAlignY=65&descSize=16" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0D0D,100:3A3A3A&height=200&section=header&text=MD.%20ARKIVE&fontSize=56&fontColor=ffffff&animation=fadeIn&fontAlignY=45&desc=Full%20Stack%20Web%20Developer%20%C2%B7%20CSE%20Undergraduate&descAlignY=65&descSize=16" width="100%"/>
 
-<img src="https://img.shields.io/badge/B.Sc.%20in%20Engineering-CSE%20(Ongoing)-6D28D9?style=flat-square&labelColor=1a1a2e"/>
-<img src="https://img.shields.io/badge/University%20of%20Asia%20Pacific-7C3AED?style=flat-square&labelColor=1a1a2e"/>
-<img src="https://img.shields.io/badge/📍-Dhaka,%20Bangladesh-8B5CF6?style=flat-square&labelColor=1a1a2e"/>
+<img src="https://img.shields.io/badge/B.Sc.%20in%20Engineering-CSE%20(Ongoing)-2B2B2B?style=flat-square&labelColor=000000"/>
+<img src="https://img.shields.io/badge/University%20of%20Asia%20Pacific-444444?style=flat-square&labelColor=000000"/>
+<img src="https://img.shields.io/badge/📍-Dhaka,%20Bangladesh-666666?style=flat-square&labelColor=000000"/>
 
 <br/><br/>
 
-<a href="https://www.linkedin.com/md-arkive"><img src="https://img.shields.io/badge/LinkedIn-4C1D95?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:arkivetopp@gmail.com"><img src="https://img.shields.io/badge/Email-5B21B6?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://github.com/Arkibba"><img src="https://img.shields.io/badge/GitHub-1a1a2e?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://www.linkedin.com/md-arkive"><img src="https://img.shields.io/badge/LinkedIn-1A1A1A?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:arkivetopp@gmail.com"><img src="https://img.shields.io/badge/Email-1A1A1A?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://github.com/Arkibba"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/></a>
 
 </div>
 
@@ -177,9 +177,9 @@ University of Asia Pacific, Dhaka, Bangladesh
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Microsoft%20Office%20Suite-Word%20%7C%20PowerPoint%20%7C%20Excel%20%7C%20Visio-6D28D9?style=flat-square&labelColor=1a1a2e"/>
-<img src="https://img.shields.io/badge/Google%20Workspace-Docs%20%7C%20Sheets%20%7C%20Slides%20%7C%20Forms-7C3AED?style=flat-square&labelColor=1a1a2e"/>
-<img src="https://img.shields.io/badge/Graphic%20Design-Adobe%20Illustrator%20%7C%20Canva-8B5CF6?style=flat-square&labelColor=1a1a2e"/>
+<img src="https://img.shields.io/badge/Microsoft%20Office%20Suite-Word%20%7C%20PowerPoint%20%7C%20Excel%20%7C%20Visio-2B2B2B?style=flat-square&labelColor=000000"/>
+<img src="https://img.shields.io/badge/Google%20Workspace-Docs%20%7C%20Sheets%20%7C%20Slides%20%7C%20Forms-444444?style=flat-square&labelColor=000000"/>
+<img src="https://img.shields.io/badge/Graphic%20Design-Adobe%20Illustrator%20%7C%20Canva-666666?style=flat-square&labelColor=000000"/>
 
 </div>
 
@@ -189,8 +189,8 @@ University of Asia Pacific, Dhaka, Bangladesh
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Arkibba&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=A78BFA&icon_color=8B5CF6&text_color=c9d1d9&count_private=true" width="48%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arkibba&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=A78BFA&text_color=c9d1d9" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Arkibba&show_icons=true&hide_border=true&bg_color=0D0D0D&title_color=ffffff&icon_color=cccccc&text_color=a0a0a0&border_color=2b2b2b&count_private=true" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arkibba&layout=compact&hide_border=true&bg_color=0D0D0D&title_color=ffffff&text_color=a0a0a0&border_color=2b2b2b" width="48%"/>
 
 </div>
 
@@ -219,9 +219,9 @@ Exploring:
 
 <div align="center">
 
-<a href="mailto:arkivetopp@gmail.com"><img src="https://img.shields.io/badge/Gmail-5B21B6?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://www.linkedin.com/md-arkive"><img src="https://img.shields.io/badge/LinkedIn-4C1D95?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://github.com/Arkibba"><img src="https://img.shields.io/badge/GitHub-1a1a2e?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="mailto:arkivetopp@gmail.com"><img src="https://img.shields.io/badge/Gmail-1A1A1A?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://www.linkedin.com/md-arkive"><img src="https://img.shields.io/badge/LinkedIn-1A1A1A?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://github.com/Arkibba"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/></a>
 
 </div>
 
@@ -229,6 +229,6 @@ Exploring:
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0D0D,100:3A3A3A&height=120&section=footer" width="100%"/>
 
 </div>
