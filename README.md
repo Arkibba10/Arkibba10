@@ -1,88 +1,73 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0f,50:141428,100:0a0a0f&height=200&section=header&text=Md.%20Arkive&fontSize=54&fontColor=00F5FF&fontAlignY=38&desc=aka%20Arkibba%20%E2%80%94%20UI%2FUX%20Designer%20%C2%B7%20Full-Stack%20Dev%20%C2%B7%20Creative%20Technologist&descAlignY=58&descSize=16&descColor=8892b0&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:f5efe6,50:ede0d4,100:f5efe6&height=200&section=header&text=Md.%20Arkive&fontSize=54&fontColor=5c4433&fontAlignY=38&desc=aka%20Arkibba%20%E2%80%94%20UI%2FUX%20Designer%20%C2%B7%20%20%C2%B7%20Creative%20Technologist&descAlignY=58&descSize=16&descColor=8a7864&animation=fadeIn" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=22&duration=2800&pause=900&color=00F5FF&center=true&vCenter=true&width=620&lines=Founder+%40+TournifyX;Building+interactive%2C+unnecessarily+animated+things;BSc+CSE+%40+University+of+Asia+Pacific;Dhaka%2C+Bangladesh+%F0%9F%87%A7%F0%9F%87%A9"/>
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=22&duration=2800&pause=900&color=B08968&center=true&vCenter=true&width=620&lines=Computer+Science+UnderGrad"/>
 
-<br/>
-
-<a href="https://github.com/Arkibba10"><img src="https://img.shields.io/github/followers/Arkibba10?label=Follow&style=for-the-badge&color=00F5FF&logoColor=white&labelColor=0a0a0f"/></a>
-
-</div>
-
-<br/>
 
 ## `// whoami`
 
 ```yaml
 name: Md. Arkive (Arkibba)
 role: UI/UX Designer · Full-Stack Developer · Creative Technologist
-founder_of: TournifyX
 studying: BSc Computer Science & Engineering @ University of Asia Pacific
 based_in: Dhaka, Bangladesh
-currently:
-  - shipping ARKIVE OS — a browser-based fake-OS portfolio
-  - building Aurae — an emotion audio analyzer
-  - running my Final Year Design Project on posture analysis with VLMs
+
 ```
 
-## `// arcade.exe`
+## `// stack`
 
 <div align="center">
-<picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Arkibba10/Arkibba10/output/pacman-contribution-graph-dark.svg">
-<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Arkibba10/Arkibba10/output/pacman-contribution-graph.svg">
-<img alt="pacman" src="https://raw.githubusercontent.com/Arkibba10/Arkibba10/output/pacman-contribution-graph.svg" width="100%">
-</picture>
 
-<sub>👻 he's eating a whole year of commits</sub>
+<img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,python,django,tailwind,figma,git,docker,nodejs,html&theme=light"/>
 
-<br/><br/>
+</div>
 
-<picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Arkibba10/Arkibba10/output/breakout-contribution-graph-dark.svg">
-<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Arkibba10/Arkibba10/output/breakout-contribution-graph.svg">
-<img alt="breakout" src="https://raw.githubusercontent.com/Arkibba10/Arkibba10/output/breakout-contribution-graph.svg" width="100%">
-</picture>
+## `// featured builds`
 
-<sub>🧱 regenerated daily via GitHub Actions</sub>
+<div align="center">
+
+<a href="https://github.com/Arkibba10/tournifyx">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:F5EFE6,100:EDE0D4&height=90&text=🏆%20TournifyX&fontSize=26&fontColor=5C4433&desc=Tournament%20management%20platform&descSize=14&descColor=8A7864&fontAlignY=42&descAlignY=72" width="100%"/>
+</a>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:F5EFE6,100:EDE0D4&height=90&text=🎧%20VoiceGuardV2&fontSize=26&fontColor=5C4433&desc=Emotion%20audio%20analyzer&descSize=14&descColor=8A7864&fontAlignY=42&descAlignY=72" width="100%"/>
+
+<a href="https://github.com/Arkibba10/Grab-and-Go-">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:F5EFE6,100:EDE0D4&height=90&text=🤖%20Grab-and-Go&fontSize=26&fontColor=5C4433&desc=Autonomous%20pick-and-carry%20robot%20(ESP32-CAM%20%2B%20robotic%20arm)&descSize=14&descColor=8A7864&fontAlignY=42&descAlignY=72" width="100%"/>
+</a>
+
+<a href="https://github.com/Arkibba10/WDM-PON-architecture-for-FTTH">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:F5EFE6,100:EDE0D4&height=90&text=🔌%20WDM-PON%20for%20FTTH&fontSize=26&fontColor=5C4433&desc=High-speed%20fiber%20optic%20access%20network%20design&descSize=14&descColor=8A7864&fontAlignY=42&descAlignY=72" width="100%"/>
+</a>
+
 </div>
 
 ## `// stats`
 
 <div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Arkibba10&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0a0a0f&title_color=00F5FF&icon_color=00F5FF&text_color=c5c9d6"/>
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arkibba10&layout=compact&theme=tokyonight&hide_border=true&bg_color=0a0a0f&title_color=00F5FF&text_color=c5c9d6&langs_count=8"/>
-
 <br/>
 
-<img src="https://streak-stats.demolab.com/?user=Arkibba10&theme=tokyonight&hide_border=true&background=0a0a0f&ring=00F5FF&fire=00F5FF&currStreakLabel=00F5FF"/>
+<img src="https://streak-stats.demolab.com/?user=Arkibba10&theme=default&hide_border=true&background=FAF6F0&ring=B08968&fire=B08968&currStreakLabel=5C4433&stroke=EDE0D4&sideNums=5C4433&currStreakNum=5C4433&sideLabels=8A7864&dates=8A7864"/>
 
 </div>
-
-## `// stack`
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,python,django,tailwind,figma,git,docker,nodejs,html&theme=dark"/>
+
+<img alt="pacman" src="https://raw.githubusercontent.com/Arkibba10/Arkibba10/output/pacman-contribution-graph.svg" width="100%">
+
+<br/><br/>
+
+<img alt="breakout" src="https://raw.githubusercontent.com/Arkibba10/Arkibba10/output/breakout-contribution-graph.svg" width="100%">
+
 </div>
-
-## `// featured builds`
-
-| Project | Description |
-|---------|-------------|
-| 🏆 **TournifyX** | Tournament management platform |
-| 🖥️ **ARKIVE OS** | Browser-based fake OS portfolio |
-| 🎧 **Aurae** | Emotion audio analyzer |
-| 📱 **GadgetScope** | Django gadget comparison platform |
 
 ## `// connect`
 
 <div align="center">
 
 <a href="https://github.com/Arkibba10">
-<img src="https://img.shields.io/badge/GitHub-Arkibba10-0a0a0f?style=for-the-badge&logo=github&logoColor=00F5FF&labelColor=0a0a0f"/>
+<img src="https://img.shields.io/badge/GitHub-Arkibba10-F5EFE6?style=for-the-badge&logo=github&logoColor=5c4433&labelColor=EDE0D4"/>
 </a>
 
 </div>
