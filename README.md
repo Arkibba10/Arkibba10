@@ -131,5 +131,11 @@ Django-based gadget price comparison site.
 </div>
 
 <br/>
+## My Contribution Graph
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0f,50:141428,100:0a0a0f&height=100&section=footer" width="100%"/>
+<--pacman-->
+<picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/[USERNAME]/[USERNAME]/output/[game-name]-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/[USERNAME]/[USERNAME]/output/[game-name]-contribution-graph.svg">
+    <img alt="[game-name] contribution graph" src="https://raw.githubusercontent.com/[USERNAME]/[USERNAME]/output/[game-name]-contribution-graph.svg">
+</picture>
