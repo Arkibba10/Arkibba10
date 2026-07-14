@@ -58,8 +58,6 @@ based_in: Dhaka, Bangladesh
 
 <br/><br/>
 
-<img alt="breakout" src="https://raw.githubusercontent.com/Arkibba10/Arkibba10/output/breakout-contribution-graph.svg" width="100%">
-
 </div>
 
 ## `// connect`
