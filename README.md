@@ -19,7 +19,7 @@
 - 🧠 Interested in Machine Learning, Robotics, Web Development, and interactive UI/UX
 - 📍 Based in Tejgaon, Dhaka, Bangladesh
 - 📫 Reach me at **arkivetopp@gmail.com**
-- 📄 Film & Photography Club (CSE-UAP) — General Secretary
+- 📄 Film & Photography Club (CSE-UAP) — President
 
 <br/>
 
