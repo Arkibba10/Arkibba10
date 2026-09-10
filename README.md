@@ -40,6 +40,10 @@
 
 <br/>
 
+> ⚠️ **About the broken-image icons you saw:** the `github-readme-stats` public endpoint (`github-readme-stats.vercel.app`) is a shared free instance that GitHub itself now rate-limits heavily, so it frequently shows *"Failed to retrieve contributions"* or just fails to load — this is a known, widespread issue, not a mistake in your README. It's the same reason the streak/trophy/activity-graph icons rendered blank in your screenshot: those are separate free services and any of them can be temporarily down. Two real fixes below.
+
+<br/>
+
 <!-- ================= TECH STACK ================= -->
 ## 🧰 Tech Stack
 
@@ -73,13 +77,25 @@
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Arkibba10&theme=tokyonight&hide_border=true&background=0D1117&ring=00F7FF&fire=FF6B6B&currStreakLabel=00F7FF" />
+<img src="https://streak-stats.demolab.com/?user=Arkibba10&theme=tokyonight&hide_border=true&background=0D1117&ring=00F7FF&fire=FF6B6B&currStreakLabel=00F7FF" />
 
 <br/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Arkibba10&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00F7FF&line=00F7FF&point=FF6B6B" width="100%"/>
 
 </div>
+
+<details>
+<summary>🔧 If these cards show a red sad-face / broken icon</summary>
+
+<br/>
+
+The public demo servers above (`vercel.app`, `demolab.com`) are shared, rate-limited, and go down under load — this happens to almost every GitHub profile using them, not just yours. Two options:
+
+1. **Just wait & refresh** — GitHub caches these images (Camo proxy); a broken load often fixes itself on the next page view or after a few minutes.
+2. **Self-host for reliability** (~5 min, free): fork [`anuraghazra/github-readme-stats`](https://github.com/anuraghazra/github-readme-stats) → deploy it to your own free Vercel project → add a `PAT_1` environment variable with a GitHub personal access token → swap `github-readme-stats.vercel.app` in this README for your own `*.vercel.app` domain. This removes you from the shared rate limit entirely.
+
+</details>
 
 <br/>
 
